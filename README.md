@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://static.vecteezy.com/system/resources/previews/003/989/768/non_2x/stars-on-black-banner-art-free-vector.jpg">
+<img src="https://static.vecteezy.com/system/resources/previews/003/989/768/non_2x/stars-on-black-banner-art-free-vector.jpg" alt="small star illustrtation header" height="50%" width="100%">
 <h1> Hello! My name is Xavier &#10024;<h1>
 <h2>pronouns: he/him  age:22  major: graphic information technology (ux) </h2>
 
