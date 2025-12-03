@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1> Hello! My name is Xavier :3<h1>
+<h2>pronouns: he/him  age:22  major: graphic design (ux) BS
+<p> Some of my hobbies include...</P>
+<ul>
+    <li>Painting</li>
+    <li>Playing Video Games</p>
+    <li>Visiting the cats at my apartment complex</p>
