@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1> Hello! My name is Xavier &#10024;<h1>
-<h2>pronouns: he/him  age:22  major: graphic design (ux) BS</h2>
+<h2>pronouns: he/him  age:22  major: graphic information technology (ux) </h2>
 
 <p> I hope to go into a UX job after I graduate, which is something I was influenced to do by my uncle!<br>
     in middle school I visited his office in Dallas, where he worked at AT&T, and i knew what I wanted to do ever since<br>
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 Some of my hobbies include...</p>
 <ul>
     <li>Painting</li>
-    <li>Playing Video Games</p>
+    <li>Playing Video Games (my favorite being any Zelda game) </p>
     <li>Playing with the cats at outside of my apartment complex</p>
 </ul>
 
