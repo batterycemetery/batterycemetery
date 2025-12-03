@@ -15,10 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1> Hello! My name is Xavier :3<h1>
+<h1> Hello! My name is Xavier &#10024;<h1>
 <h2>pronouns: he/him  age:22  major: graphic design (ux) BS</h2>
-<p> Some of my hobbies include...</P>
+
+<p> I hope to go into a UX job after I graduate, which is something I was influenced to do by my uncle!<br>
+    in middle school I visited his office in Dallas, where he worked at AT&T, and i knew what I wanted to do ever since<br>
+    I was originally a Painting major at the University of Houston, as they didn't have a UX program there, but luckily have transferred here to pursue my proper career.<br>
+    I was not originally interested in coding but have grown very fond of it and am incredibly excited to apply it to my knowledge of the graphic design aspect of UX. 
+</p>
+<p> Outside of school, I work as a barista and live in Houston, Texas with my boyfriend of 3 years. <br>
+Some of my hobbies include...</p>
 <ul>
     <li>Painting</li>
     <li>Playing Video Games</p>
-    <li>Visiting the cats at my apartment complex</p>
+    <li>Playing with the cats at outside of my apartment complex</p>
+</ul>
+
