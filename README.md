@@ -32,4 +32,4 @@ Some of my hobbies include...</p>
 </ul>
 
 <p>For interest of my personal paintings, <a href="https://www.instagram.com/fraisegothique?igsh=MWF6eWhkanBzbGx3Zw%3D%3D&utm_source=qr">you can click here!</p>
-
+<img src="https://e7.pngegg.com/pngimages/79/1017/png-clipart-stars-emitting-material-star-galaxy.png">
