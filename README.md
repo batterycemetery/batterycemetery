@@ -31,3 +31,5 @@ Some of my hobbies include...</p>
     <li>Playing with the cats at outside of my apartment complex</p>
 </ul>
 
+<p>For interest of my personal paintings, <a href="https://www.instagram.com/fraisegothique?igsh=MWF6eWhkanBzbGx3Zw%3D%3D&utm_source=qr">you can click here!</p>
+
