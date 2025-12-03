@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1> Hello! My name is Xavier :3<h1>
-<h2>pronouns: he/him  age:22  major: graphic design (ux) BS
+<h2>pronouns: he/him  age:22  major: graphic design (ux) BS</h2>
 <p> Some of my hobbies include...</P>
 <ul>
     <li>Painting</li>
